@@ -1,0 +1,13 @@
+Gene Center | Number of Points in Cluster | Within Cluster Sum of Squares
+C1            137                            12265.0328002137
+C3            127                            11147.224304689
+C5            126                            11687.7148280105
+C7            103                            8878.63356689513
+C2            99                             9329.1077992224
+C8            93                             8790.3866840686
+C9            92                             8550.88422036132
+C6            76                             7058.38768753915
+C4            75                             7417.42898892368
+C10           72                             6883.99418751809
+
+DONE! Data points have convergenced in 31 Iterations!
